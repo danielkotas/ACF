@@ -1,0 +1,40 @@
+---
+title: "axamony"
+output: pdf_document
+---
+---
+title: 
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+![](cover.pdf)
+
+
+# Introduction
+
+
+
+
+# Question 1: What corporate governance mechanisms maz have served to improve the performance of MONY's management? Why have they apparently failed to do so?
+
+
+
+
+
+
+# Question 2: What options are available to AXA to finance the takeover of MONY? Why has AXA chose to use ORANs?
+
+
+
+# Question 3: How are ORANs price and what information do they communicate together with AXA's share price?
+
+
+# Question 4: Why are MONY shares trading above AXA's offer prince, in the absence of any competing bid and with no apparent indication that AXA may raise its offer?
+
+
+
+
+# Conclusion
