@@ -15,11 +15,54 @@ output:
 
 # Introduction
 
+In this case, we will be examining an acquisition deal between a French insurance giant AXA, which set out to acquire an American insurance company MONY. The deal was likely a consequence of MONY's poor performance from 2000 until 2003 and the deal took place in 2004. The main eyesore of the deal was the notion that AXA lowballed MONY with the offer price of $31, which was thought by shareholders and external institutions to be significantly lower than the intrinsic value of the company. However, the CEO Mr. Roth together with the management were adamant in pursuing the deal, at first maybe quite contrary to the intution of management trying to ge the best deal possible.
+
+Best deal possible it indeed was, but for the management itself, as we learned there were the so-called CIC contracts (change in control) outstanding, which would pay a significant amount to the management. We will therefore discuss the possible corporate governance mechanisms which could have prevented this situation, how AXA financed the acquisition with ORANs which also motivated to follow through with the deal and why the trade price was slightly higher than the offer price from AXA.
 
 
+# Question 1: What corporate governance mechanisms may have served to improve the performance of MONY's management? Why have they apparently failed to do so?
 
-# Question 1: What corporate governance mechanisms maz have served to improve the performance of MONY's management? Why have they apparently failed to do so?
 
+Ultimately, any management’s task is to provide value to shareholders, who finance the business. Normally, the goal is to grow the business, produce earnings and either reinvested them or payout dividends to return the value. However, it happens sometimes that a business does not perform the way it should because of structural, unsolvable issues which could not be resolved by changing the management, which had been motivated by corporate governance mechanisms to improve the performance. In that case, the best option for the business is to get acquired by another company and provide value to shareholders this way.
+
+Presumably, this was the case of MONY’s, which has performed poorly from the business as well as stock market perspective since its demutualization in 1998 to the acquisition deal in 2004. From the case, we learn that MONY reported losses of \$60.8 and \$23.3 million in 2001 and 2002, respectively and achieved only 1% ROE in 2003, compared to an average of 10% of its peers.
+
+Moreover, since demutualization in 1998 with the IPO price of \$23.5 until the dealings in February of 2004 with the price of around \$28 (the shares jumped around 12.85% after the announcement to $31.50 because of the AXA’s offer price of \$31), it provided an average return of mere 2.9%. However, those results might not be completely of the fault of the management, since we learned that the economy overall performed weakly in 2001 and 2002. Therefore it could be argued that these problems could have been solved internally, by the change of management for example, in order to avoid acquisition, which according to the case was extremely unfavorable to the shareholders at that time. We will now present standard corporate governance mechanisms (CGM), how they could have helped improve the performance and avoid the unfavorable acquisition and also why they failed to do so.
+
+## Four corporate governance mechanisms 
+* Board 
+* Owning shares/compensation
+* Takeover
+* Absence of 5% limit of ownership
+
+### Board
+
+Board is a legal body in a corporation, which should protect the interest of the shareholders in order to ensure the company works in their favor. Any publicly traded company, such as MONY, has a board, to which the executives and the CEO report and in case the CEO performs poorly for a prolonged period of time, the board can vote to have them replaced, which should act as a negative stimulus to perform. This works in theory, but there are two conceptual issues with the board itself, namely:
+As Adam Smith noted in his book The Wealth of the Nations, people are not as vigilant with money that is not their own, I.e. board members have little incentives to police the management extensively. After all, the board are always outsiders, who have little to do with either the shareholders or the management itself, thus while being maybe objective, they are also indifferent.
+
+Secondly and most importantly, board members’ pay is decided by the management, thus a conflict of interest arises; board members will not “bite the hand that feeds them”. Put simply, even if the CEO performs poorly and the threat of being replaced arises, they can legally bribe the board by raising their compensation. In that case, the board has again very little interest in acting against the CEO.
+
+In the case, we have little or no information about the board, but from the timeline and evolution of the situation, we can see those might be the reasons why board did not act either to replace the CEO or veto the unfavorable deal.
+
+### Owning shares / Stock compensation
+
+By very simple logic, the principal-agent problem disappears if the agent also becomes the principal, i.e. if the management also holds some considerable amount of shares. That means if the CEO acts in the interest of the shareholders, they also act in their own as well, meaning they are trying their best to improve the business performance and in case of acquisition, get the best deal possible. This is ensured by sensible compensation policy, where management’s compensation throught stock options is directly linked to performance.
+
+ We do not have any information about the insiders’ holding and how many shares the CEO held, but judging from how adamant the CEO was about pursuing the unfavourable deal, we can infer he did not hold any or very few. On the other hand, one of the compensation packages that we did know about were the “CICs” (change in control compensation) which were motivating the top management to agree to an ownership change as they stood up for a huge windfall (e.g.$22 million for the CEO). As such, the board of directors should have removed the CICs linked to an ownership change as it incentivized the management to opt for the company to be acquired. However, as some board members would be compensated as well in case of a takeover through a CIC, removing these contracts proved an insurmountable task, another reason why the CGM put in place failed.
+
+### Takeover
+
+Takeover, as previously mentioned, should serve as a negative stimulus for the management to performed well, in order to avoid being replaced or made redundant in the process of a takeover. 
+
+Considering the takeover as a CGM, although it was implemented, the management did not have the incentive to perform at its best, given the CICs in place, management was actually strongly incentivized to pursue this deal and being taken over by AXA on conditions unfavorable to the shareholders of MONY. We are once again assigning the blame to the CICs, since they completely flipped the incentives of the management; rather than trying to get out of a bad financial situation or consider being replaced, the CEO pursued un unfavorable deal at the expense of the shareholders, simply because of the easy way out through the CICs.
+
+### Absence of the 5% shareholder limit
+
+One of the main reasons why corporate governance mechanisms failed to improve the performance of MONY’s management was that none of the shareholders could own more than 5% of the company, leaving the company without clear guidance and decision power as to who has the most say in important matters, such as vetoing the unfavorable acquisition or replacing the CEO in order to improve the results (this option was available according to the case)
+
+Moreover, while the 5% ownership limit was employed to serve as a corporate governance mechanism, it had a negative effect on the company as it deterred active investors with an interest in the company. The company should have abolished the 5% ownership limit as it would allow it to have a major shareholder with the ability to change the management and veto the acquisition proposal, and the interests of the company aligned with the interest of the investors. As it was clear that even though quite a few shareholders decried the acquisition, they could not stop it from going ahead, and many minority shareholders did not care about the ownership change as long as they would be paid, what they were told was a fair price.
+
+But what is a fair price when the company employed, CSFB, to assess the fair value of the company was employed by the same management who wanted to sell the company, leading to a conflict of interest, which was the main reason the CGM put in place failed to improve the performance of MONY’s management. As many shareholders feared that the price offered by AXA was pricing MONY at 70 cents on the dollar, lower than the book value of the company, $43 at that time, the valuation offered by CSFB was inaccurate and represented a conflict of interest. The board of directors should have employed CGM to prevent the management from requiring an assessment of itself by an outside company as this misled the investors into thinking that the price offered by AXA was fair, when it actually represented a discounted price.  
 
 
 
